@@ -1,4 +1,4 @@
-## Olá eu sou o Gustavo Tocantins, desenvolvedor e criador de conteúdo sobre programação!
+## Olá eu sou o Gustavo Tocantins!
 <div align="center">
   <a href="https://github.com/gustavotocantins">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gustavotocantins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
